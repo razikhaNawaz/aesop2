@@ -6,8 +6,8 @@ const tokenOfAppreciation = () => {
   let { title, tag, content, color, btnText } = {
     tag: "Tokens of appreciation",
     title: "Corporate gifts",
-    content: `Find a variety of gift-giving options, ideal for honouring treasured colleagues and clients. Trained consultants will be pleased to guide your selections and assist with delivery. `,
-    btnText: "Learn more about this",
+    content: `Our sales consultants have a long history of pairing products that complement each other to deliver even more skin care benefits. Incorporate this time-tested practice into your skincare regimen with one of our recommended products. `,
+    btnText: "Browse skincare portfolio",
     color: "[#333]",
   };
   return (

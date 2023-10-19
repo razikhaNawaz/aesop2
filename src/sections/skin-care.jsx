@@ -15,11 +15,10 @@ const skinCare= ()=> {
 
 
   let details = {
-    tag: "Parsley Seed Skin Care",
-    title: "Fortification of the highest order",
-    content: `Our Parsley Seed Skin Care range provides potent doses of anti-oxidant rich ingredients in formulations suited to all skin types. They are especially recommended for those in urban environments, to fortify the skin against the damaging effects of free radicals.
-    `,
-    btnText: "Explore the range",
+    tag: "Parsley and antioxidant series",
+    title: "Skins best defence",
+    content: `Suitable for all skin types, our Parsley Seed range is rich in powerful antioxidants. Especially recommended for city wanderers, it helps protect skin from free radical damage and keeps skin healthy.`,
+    btnText: "Discovery series",
     color: "[#333]",
   };
   let images = [

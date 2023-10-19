@@ -14,8 +14,8 @@ import image2 from "../assets/storelocators/Aesop-HK-Hollywood-Road-Hero-Desktop
 const locator = () => {
   let { title, tag, content, color, btnText, image, order } = {
     tag: "",
-    title: "Store locator ",
-    content: `Our consultants are available to host you in-store and provide tailored guidance on gift purchases. `,
+    title: "Find a store ",
+    content: `Our professional consultants will be honored to welcome you in-store and provide tailored advice on your gifting needs. `,
     btnText: "Find a nearby store",
     color: "[#333]",
     image: room,

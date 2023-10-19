@@ -17,6 +17,7 @@ const index = () => {
       <Domestic></Domestic>
       <TokenOfAppreciation></TokenOfAppreciation>
       <Locator></Locator>
+      
       <Footer></Footer>
     </>
   );
