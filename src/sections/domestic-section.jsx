@@ -17,11 +17,11 @@ import image9 from "../assets/Domestic/Aesop-Home-Room-Spray-Istros-100mL-large.
 import image10 from "../assets/Domestic/Aesop-Other-Aesop-Book-1-Large-835x962px.webp";
 const Domestic = () => {
   let details = {
-    tag: "For the home",
-    title: "Domestic pleasures",
+    tag: "Perfume",
+    title: "Personal scent imprint",
     content:
-      "Our range of aromatic formulations for the home are practical and pleasing in equal measure",
-    btnText: "See all Home",
+      "Aesop fragrances are unconventional, captivating and nuanced - Aesop fragrances are bridges to sensory memories and connections to our surroundings",
+    btnText: "Explore fragrances",
     color: "[#333]",
   };
 

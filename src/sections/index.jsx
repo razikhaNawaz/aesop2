@@ -8,16 +8,18 @@ import TokenOfAppreciation from "./token-of-appreciation";
 import Locator from "./store-locator";
 import Footer from "./footer";
 import Discover from "./lessons";
+import TokenOfAppreciation2 from "./token-of-appreciation2";
 const index = () => {
   return (
     <>
       <Hero></Hero>
-      <SkinCare></SkinCare>
+      
       <Discover></Discover>
       <Domestic></Domestic>
       <TokenOfAppreciation></TokenOfAppreciation>
+      <SkinCare></SkinCare>
       <Locator></Locator>
-      
+      <TokenOfAppreciation2></TokenOfAppreciation2>
       <Footer></Footer>
     </>
   );
